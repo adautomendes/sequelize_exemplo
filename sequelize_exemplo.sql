@@ -19,10 +19,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Banco de dados: `eb019_exemplo`
+-- Banco de dados: `sequelize_exemplo`
 --
-CREATE DATABASE IF NOT EXISTS `eb019_exemplo` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `eb019_exemplo`;
+CREATE DATABASE IF NOT EXISTS `sequelize_exemplo` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `sequelize_exemplo`;
 
 -- --------------------------------------------------------
 

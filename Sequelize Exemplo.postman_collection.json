@@ -1,7 +1,7 @@
 {
 	"info": {
-		"_postman_id": "73f2265a-5bb4-4744-bdb4-58ac4408a26d",
-		"name": "EB019 Exemplo",
+		"_postman_id": "ec7293ed-cb66-4435-8a16-03abbab8441e",
+		"name": "Sequelize Exemplo",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -13,7 +13,6 @@
 					"script": {
 						"id": "68ba31d9-9912-40bd-bb05-3a542d0c1fd8",
 						"exec": [
-							"//Salvar token no Postman",
 							"var jsonData = pm.response.json(); //Pega a response como Json",
 							"",
 							"pm.globals.set(\"salgado_id\", jsonData.id);"

@@ -145,5 +145,5 @@ server.del("/salgado/:id", excluirSalgado);
  * assim que a função 'listen' terminar sua execução - de forma síncrona)
  */
 server.listen(3000, function () {
-    console.log("EB019 rodando...");
+    console.log("Exemplo Sequelize rodando...");
 });
